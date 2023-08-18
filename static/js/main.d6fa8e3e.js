@@ -6891,19 +6891,20 @@
         })
       }
       var l = [{
-          title: "Graduate Teaching Assistant, Data Structures and Algorithms in C",
-          company: "University of Central Florida",
-          timeline: "August 2021 - Present",
-          location: "Orlando, Florida",
-          highlights: "As a graduate teaching assistant, I have the opportunity to shape the future of the tech industry by mentoring and guiding over 800+ undergraduate students in computer science. I lead programming labs, provide one-on-one study sessions, and offer office hours to ensure the students have the resources they need to excel. I also grade assignments and provide feedback to help the students understand and master fundamental concepts such as data structures and algorithms, as well as advanced data structures in C Programming. This role has allowed me to hone my leadership and teaching skills, as well as solidify my knowledge in computer science.",
-          technologies: "Data Structures and Algorithms, Advanced Data Structures, C Programming"
-        }, {
           title: "Open Source Contributor",
           company: "Open Source",
           timeline: "July 2023 - Present",
           location: "Github Open Source",
           highlights: "Working as a Maintainer and Contributor, Maintainer - LinkLeap: Effortless job applications on Linkedin - Java, Selenium, JUnit , Contributor - AppSmith: An Internal Drag and drop tool builder - React, Javascript, Spring",
           technologies: "Java, Selenium, React, JavaScript, Spring."
+        },
+        {
+          title: "Graduate Teaching Assistant, Data Structures and Algorithms in Java",
+          company: "University of Central Florida",
+          timeline: "August 2021 - May 2023",
+          location: "Orlando, Florida",
+          highlights: "As a graduate teaching assistant, I have the opportunity to shape the future of the tech industry by mentoring and guiding over 800+ undergraduate students in computer science. I lead programming labs, provide one-on-one study sessions, and offer office hours to ensure the students have the resources they need to excel. I also grade assignments and provide feedback to help the students understand and master fundamental concepts such as data structures and algorithms, as well as advanced data structures in C Programming. This role has allowed me to hone my leadership and teaching skills, as well as solidify my knowledge in computer science.",
+          technologies: "Data Structures and Algorithms, Advanced Data Structures, Java Programming"
         }, {
           title: "Graduate Research Assistant - (Advisor)Dr Mubarak Shah",
           company: "University of Central Florida",
@@ -6947,7 +6948,7 @@
           subtitle: "React, Tailwind CSS, Github Pages",
           description: "My personal portfolio website built using React, Tailwind CSS and deployed on Github Pages",
           image: "./react.png",
-          link: "https://rebrand.ly/sarath_mannam"
+          link: "https://pheonix-18/github.io/port"
         }, {
           title: "Epic Todo App",
           subtitle: "Java, Spring Boot, PostgreSQL, Typescript, Angular, AWS",
@@ -6960,10 +6961,6 @@
           title: "Hello Medium \u2014 Getting Started with writing technical blogs \u2014 \u270d",
           url: "https://medium.com/p/4267b328c625",
           description: "A great read for anyone who wants to get started with technical blogging."
-        }, {
-          title: "Fundamental Data Structures for Coding Interviews - \ud83d\udcd4 ",
-          url: "https://medium.com/@sarath.mannam13",
-          description: "A comprehensive coverage of data structures with examples in Java"
         }],
         c = "https://medium.com/@sarath.mannam13",
         d = [{
