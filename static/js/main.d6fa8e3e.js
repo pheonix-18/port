@@ -6917,8 +6917,8 @@
           company: "R.V.R & J.C College Of Engineering",
           timeline: "May 2020 - May 2021",
           location: "Guntur, India",
-          highlights: "During my internship, I gained experience in developing responsive web and android applications utilizing technologies such as Angular, Core Java, Android SDK, Spring Boot, SQL/NoSQL, RESTful APIs, and Firebase Cloud. I also have experience in designing and implementing secure user-authentication modules, RESTful web services, and cloud-notification services. I was involved in all phases of the Software Development Life Cycle (SDLC) and followed Agile Scrum Methodology to produce quality deliverables within time.",
-          technologies: "Angular, Core Java, Android SDK, Spring Boot, SQL/NoSQL, RESTful APIs, Firebase Cloud, HTML5, CSS3, JavaScript, Twitter Bootstrap and Agile Scrum Methodology"
+          highlights: "I gained experience in developing responsive web and android applications utilizing technologies such as React, Core Java, Android SDK, Spring Boot, SQL/NoSQL, RESTful APIs, and Firebase Cloud. I also have experience in designing and implementing secure user-authentication modules, RESTful web services, and cloud-notification services. I was involved in all phases of the Software Development Life Cycle (SDLC) and followed Agile Scrum Methodology to produce quality deliverables within time.",
+          technologies: "React, Core Java, Android SDK, Spring Boot, SQL/NoSQL, RESTful APIs, Firebase Cloud, HTML5, CSS3, JavaScript, Twitter Bootstrap and Agile Scrum Methodology"
         }],
         o = [{
           timeline: "August 2021 - May 2023",
