@@ -6913,13 +6913,13 @@
           highlights: "As a research assistant, I built a massive image dataset of 2.6 million images using Python, Google Maps API and Berkeley Driving Dataset, presented data using visualization techniques and statistics, and contributed to research in geolocalization domain, working with professors and PhD students, aimed at publishing in high-tier conferences.",
           technologies: "Python, Google Cloud Platform, Data Preprocessing, Pandas, Powerpoint"
         }, {
-          title: "Full Stack Software Engineering Intern",
-          company: "R.V.R & J.C College Of Engineering",
-          timeline: "May 2020 - May 2021",
-          location: "Guntur, India",
-          highlights: "I gained experience in developing responsive web and android applications utilizing technologies such as React, Core Java, Android SDK, Spring Boot, SQL/NoSQL, RESTful APIs, and Firebase Cloud. I also have experience in designing and implementing secure user-authentication modules, RESTful web services, and cloud-notification services. I was involved in all phases of the Software Development Life Cycle (SDLC) and followed Agile Scrum Methodology to produce quality deliverables within time.",
-          technologies: "React, Core Java, Android SDK, Spring Boot, SQL/NoSQL, RESTful APIs, Firebase Cloud, HTML5, CSS3, JavaScript, Twitter Bootstrap and Agile Scrum Methodology"
-        }],
+          title: "Software Engineer Intern",
+          company: "Bennet University",
+          timeline: "May 2020 - July 2020",
+          location: "Remote - Noida, UP",
+          highlights: "Published research on 'Anomaly Action Detection with Drone Videos during Search and Rescue Operations' with Leading India AI. Leverage Pytorch, Python to build action detection pipeline with 80% accuracy. ",
+          technologies: "Python, Pytorch, Git"}
+        ],
         o = [{
           timeline: "August 2021 - May 2023",
           degree: "Master's in Computer Science",
@@ -7124,7 +7124,7 @@
             }), (0, r.jsxs)("nav", {
               className: "md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-700\tflex flex-wrap items-center text-base justify-center",
               children: [(0, r.jsx)("a", {
-                href: "http://www.linkedin.com/in/sarathkumar-mannam",
+                href: "https://www.linkedin.com/in/kumarr-m/",
                 className: "mr-5",
                 children: (0, r.jsx)("svg", {
                   xmlns: "http://www.w3.org/2000/svg",
